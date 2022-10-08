@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Day-2-Error-Page/static/css/main.9d61861b.css",
+    "main.js": "/Day-2-Error-Page/static/js/main.a1de09d7.js",
+    "index.html": "/Day-2-Error-Page/index.html",
+    "main.9d61861b.css.map": "/Day-2-Error-Page/static/css/main.9d61861b.css.map",
+    "main.a1de09d7.js.map": "/Day-2-Error-Page/static/js/main.a1de09d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d61861b.css",
+    "static/js/main.a1de09d7.js"
+  ]
+}
